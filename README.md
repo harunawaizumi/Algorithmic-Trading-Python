@@ -1,0 +1,2 @@
+# Algorithmic-Trading-Python
+This is python with jupyter tutorial : https://www.youtube.com/redirect?event=video_description&amp;v=xfzGZB4HhEE&amp;redir_token=QUFFLUhqbTY5RVRSQ3lZcXZFWHd5eXQ1cWpVUFdibzB6UXxBQ3Jtc0tuVEFuZmQxT3NYTDZVVWY1ZkpWZHhrbDNybDhQbTFUM2R0bWxGbXlhXzN1bXJGNHZQVjFmeEZpYWtab0RmYWg1bUQ4RUFmQjhEdGN0cGw0Qi1kUXhTRnFiQ3h4WG1fS0pDVUJjUGUwSGpEdkR4bmdjTQ%3D%3D&amp;q=https%3A%2F%2Fgithub.com%2Fnickmccullum%2Falgorithmic-trading-python
